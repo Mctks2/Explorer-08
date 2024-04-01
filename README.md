@@ -1,7 +1,7 @@
 # FocusTimer - Pomodoro
 
-"Página web interativa que permite ao usuário cronometrar seus minutos de estudo, leitura e outras atividades, com as opções de play/pause. 
-Na opção stop, é possível definir um novo tempo. Além disso, inclui uma música calma que pode ser ligada/desligada através do ícone de som no canto inferior direito."
+Página web interativa que permite ao usuário cronometrar seus minutos de estudo, leitura e outras atividades, com as opções de play/pause. 
+Na opção stop, é possível definir um novo tempo. Além disso, inclui uma música calma que pode ser ligada/desligada através do ícone de som no canto inferior direito.
 
 ## 🛠️ Tecnologias utilizadas
 - HTML
